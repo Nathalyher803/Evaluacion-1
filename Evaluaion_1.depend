@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1711076128 source:c:\users\mineducyt\desktop\lab2 de progra\evaluaion_1\cliente.cpp
+	"Cliente.h"
+
+1711075854 c:\users\mineducyt\desktop\lab2 de progra\evaluaion_1\cliente.h
+	<string>
+
+1711076600 source:c:\users\mineducyt\desktop\lab2 de progra\evaluaion_1\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1711076328 c:\users\mineducyt\desktop\lab2 de progra\evaluaion_1\fecha.h
+	<iostream>
+
+1711080582 source:c:\users\mineducyt\desktop\lab2 de progra\evaluaion_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Prestamo.h"
+
+1711080046 c:\users\mineducyt\desktop\lab2 de progra\evaluaion_1\prestamo.h
+	"Cliente.h"
+	"Pago.h"
+
+1711079159 c:\users\mineducyt\desktop\lab2 de progra\evaluaion_1\pago.h
+	"Fecha.h"
+
+1711079590 source:c:\users\mineducyt\desktop\lab2 de progra\evaluaion_1\pago.cpp
+	"Pago.h"
+
+1711111333 source:c:\users\mineducyt\desktop\lab2 de progra\evaluaion_1\prestamo.cpp
+	"Prestamo.h"
+	"Cliente.h"
+	"Pago.h"
+	"Fecha.h"
+
